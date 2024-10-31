@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-18 17:13+0530\n"
+"PO-Revision-Date: 2021-01-18 17:27+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#: blitz-salonbooking-settings.php:103 blitz-salonbooking-settings.php:105
+msgid "Save"
+msgstr "Sauver"
+
+#: blitz-salonbooking-settings.php:113 blitz-salonbooking-settings.php:121
+msgid "Hide the \""
+msgstr "Cache le \""
+
+#: blitz-salonbooking-settings.php:113 blitz-salonbooking-settings.php:116
+#: blitz-salonbooking-settings.php:121
+msgid " - Rebrand\" menu item?"
+msgstr " - Élément de menu Rebrand \"?"
+
+#: blitz-salonbooking-settings.php:116
+msgid "Show the \""
+msgstr "Montrez le \""
+
+#: blitz-salonbooking-settings.php:203
+msgid "Rebrand"
+msgstr "Rebrand"
+
+#: admin/bzsalon-settings-rebranding.php:2
+msgid "Rebrand Salon Booking"
+msgstr "Rebrand Salon Réservation"
+
+#: admin/bzsalon-settings-rebranding.php:14
+msgid "Branding"
+msgstr "l'image de marque"
+
+#: admin/bzsalon-settings-rebranding.php:15
+msgid "You can white label the plugin as per your requirement."
+msgstr "Vous pouvez marquer le plugin en blanc selon vos besoins."
+
+#: admin/bzsalon-settings-rebranding.php:20
+msgid "Plugin Name"
+msgstr "Nom du plugin"
+
+#: admin/bzsalon-settings-rebranding.php:28
+msgid "Whitelabel \"Assistants\""
+msgstr "Whitelabel \"Assistants\""
+
+#: admin/bzsalon-settings-rebranding.php:36
+msgid "Whitelabel \"Assistant\""
+msgstr "Whitelabel \"Assistant\""
+
+#: admin/bzsalon-settings-rebranding.php:44
+msgid "Plugin Description"
+msgstr "Description du plugin"
+
+#: admin/bzsalon-settings-rebranding.php:52
+msgid "Developer / Agency"
+msgstr "Développeur / Agence"
+
+#: admin/bzsalon-settings-rebranding.php:60
+msgid "Website URL"
+msgstr "URL de site web"
+
+#: admin/bzsalon-settings-rebranding.php:69
+msgid "Primary Color"
+msgstr "Couleur primaire"
+
+#: admin/bzsalon-settings-rebranding.php:79
+msgid "Menu Icon"
+msgstr "Icône de menu"
+
+#: admin/bzsalon-settings-rebranding.php:89
+msgid "Hide Help Button"
+msgstr "Masquer le bouton d'aide"
+
+#: admin/bzsalon-settings-rebranding.php:98
+msgid "Hide Admin Banner (Settings page sidebar)"
+msgstr ""
+"Masquer la bannière d'administration (barre latérale de la page Paramètres)"
+
+#: admin/bzsalon-settings-rebranding.php:107
+msgid "Hide Support Tab"
+msgstr "Masquer l'onglet Assistance"
+
+#: admin/bzsalon-settings-rebranding.php:120
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
